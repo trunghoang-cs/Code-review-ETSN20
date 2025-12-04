@@ -21,7 +21,6 @@ public class Search {
             scan.close();
         } catch (FileNotFoundException e) {
             System.out.println(e.getMessage());
-            
         }
     }
 
